@@ -1,0 +1,25 @@
+{
+  "-60c6b4": {
+    "collection": "instructors",
+    "query": {
+      "fields": [
+        {
+          "fieldPath": "general-staff",
+          "operatorName": "eq",
+          "value": "true"
+        }
+      ],
+      "sort": [
+        "created-on"
+      ]
+    }
+  },
+  "-558f425b": {
+    "collection": "instructors",
+    "query": {
+      "sort": [
+        "bio"
+      ]
+    }
+  }
+}
