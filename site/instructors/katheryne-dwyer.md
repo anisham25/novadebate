@@ -5,7 +5,7 @@ layout: single-instructors.html
 seo:
   twitter:card: summary
 picture:
-  url: /static/images/katherynebio.jpg
+  url: /static/images/newkatherynepic.jpg
   alt: Katheryne headshot
 bio: Hi!! I’m Katheryne and I debate for Walt Whitman in Bethesda, MD. I’m a
   junior and have debated for two years on the national circuit. In that time,
