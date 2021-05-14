@@ -2,7 +2,7 @@
 _archived: false
 _draft: false
 tags: instructors
-date: 2021-05-09T21:25:13.368Z
+date: 2021-05-14T16:53:33.088Z
 layout: single-instructors.html
 picture:
   url: https://uploads-ssl.webflow.com/60984792b2ffc0d1d0828319/609847ec088fb257f167ec6f_anmolbio-p-800.jpeg
