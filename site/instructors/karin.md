@@ -7,10 +7,13 @@ layout: single-instructors.html
 picture:
   url: /static/images/karinbio-p-500-1-.jpeg
   alt: Karin headshot
-bio: Hi! I'm Karin (she/her) and I'm a rising senior at Oakton High School. I'm
-  the captain of our Public Forum Debate team where I help oversee meetings,
-  handle team rosters, and coach debaters. I taught at NOVA last year and can't
-  wait to teach again!
+bio: Hi! I’m Karin (she/her) and I've debated for Oakton for three years.
+  Nationally, I've qualified to NCFLs and the TOC, bidding at ASU, Blue Key,
+  Stanford, and UK, while locally I've qualified to Varsity Metrofinals, winning
+  VHSL regionals/super regionals. I'm the captain of Oakton's PF team where I
+  handle meetings and tournaments while coaching novices and varsity alike, and
+  I'm also an instructor at BTL, a debate education nonprofit. I can't wait to
+  return to NOVA this summer!
 general-staff: true
 general-staff-role: NOVA Debate Co-Director
 name: Karin Liu
