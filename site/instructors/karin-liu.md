@@ -15,6 +15,8 @@ bio: Hi! I'm Karin (she/her) and I've debated for Oakton for three years.
   instructor at BTL, a debate education nonprofit. I love baking, watching crime
   TV shows, and listening to crime podcasts. Can't wait to return to NOVA this
   summer!
+general-staff: true
+general-staff-role: NOVA Debate Co-Director
 name: Karin Liu
 created-on: 2021-05-17T06:39:58.338Z
 updated-on: 2021-05-17T06:39:58.346Z
