@@ -17,7 +17,7 @@ bio: Hi! I’m Abhiram (he/him) and I’m a rising senior at Edgemont where I
   and FaceTime my lovely partner Anisha. I'm super excited to meet and work with
   you all at NOVA this summer!
 name: Abhiram Masam
-created-on: 2020-07-29T06:45:27.873Z
+created-on: 2021-05-20T06:45:27.873Z
 updated-on: 2021-05-17T06:45:27.887Z
 published-on: 2021-05-17T06:45:27.899Z
 ---
