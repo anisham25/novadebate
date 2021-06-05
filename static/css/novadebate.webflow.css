@@ -45,6 +45,11 @@ p {
   padding-bottom: 120px;
 }
 
+.section.bg-dark {
+  margin-top: -80px;
+  padding-top: 22px;
+}
+
 .section.hero {
   display: block;
   height: auto;
@@ -477,6 +482,7 @@ p {
 }
 
 .heading-3 {
+  margin-top: 70px;
   margin-bottom: 60px;
   font-family: Montserrat, sans-serif;
   font-size: 40px;
@@ -602,6 +608,18 @@ p {
 
 .collection-list-wrapper {
   margin-bottom: 40px;
+}
+
+.heading-3-copy {
+  margin-top: 158px;
+  margin-bottom: 60px;
+  font-family: Montserrat, sans-serif;
+  font-size: 40px;
+  text-align: center;
+}
+
+.collection-item {
+  margin-bottom: 28px;
 }
 
 @media screen and (max-width: 991px) {
@@ -740,6 +758,13 @@ p {
   .instructor-bio {
     margin-bottom: 20px;
   }
+
+  .collection-list-2 {
+    -ms-grid-columns: 1fr 1fr;
+    grid-template-columns: 1fr 1fr;
+    -ms-grid-rows: auto auto;
+    grid-template-rows: auto auto;
+  }
 }
 
 @media screen and (max-width: 479px) {
@@ -799,6 +824,20 @@ p {
 
   .image-5 {
     margin-left: 0px;
+  }
+
+  .collection-list {
+    -ms-grid-columns: 1fr;
+    grid-template-columns: 1fr;
+    -ms-grid-rows: auto auto;
+    grid-template-rows: auto auto;
+  }
+
+  .collection-list-2 {
+    -ms-grid-columns: 1fr;
+    grid-template-columns: 1fr;
+    -ms-grid-rows: auto auto;
+    grid-template-rows: auto auto;
   }
 }
 

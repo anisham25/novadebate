@@ -14,11 +14,11 @@
       ]
     }
   },
-  "-558f425b": {
+  "-1bbd76d": {
     "collection": "instructors",
     "query": {
       "sort": [
-        "bio"
+        "created-on"
       ]
     }
   }

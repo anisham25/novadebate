@@ -263,8 +263,11 @@ module.exports = function (eleventyConfig, ecommerceFormat, priceTemplate) {
               if (a) {
                 if (!a.includes("/")) {
                   const s = a;
-                  a = collection.collection + "/" + a;
+                  a = collection.collection.replace(/_/gm, '-') + "/" + a;
                   const index = ("/" + a).replace('.md', '') + "_ne";
+                  const index2 = "/site" + index;
+
+                  console.log(index2);
                   if (field.operatorName == "ne") {
                     items.forEach(item => {
                       const itemS = getProperty(item.data, "slug", undefined);
@@ -272,12 +275,16 @@ module.exports = function (eleventyConfig, ecommerceFormat, priceTemplate) {
                         if (!newCollections[index]) {
                           newCollections[index] = []
                         }
+                        if (!newCollections[index2]) {
+                          newCollections[index2] = []
+                        }
                         newCollections[index].push(item);
+                        newCollections[index2].push(item);
                       }
                     })
                   }
                 }
-                const index = ("/" + b).replace('.md', '');
+                  const index = ("/" + b).replace('.md', '');
                   const index2 = index + ".md"
                   if (!newCollections[index]) {
                     newCollections[index] = []
