@@ -1,5 +1,7 @@
 backend:
   name: "git-gateway"
+  repo: anisham25/novadebate
+  branch: master
   accept_roles:
     - "admin"
     - "editor"
