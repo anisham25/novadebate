@@ -15,7 +15,7 @@ bio: Hello, I'm Nathaniel (he/him) and I'll be the Adult Administrator for NOVA
   to the TOC. I've also coached privately, taught at summer camps since 2018,
   and organized NOVA for the past three years. See you this summer!
 general-staff: true
-general-staff-role: "Adult Administrator "
+general-staff-role: "Supervisor "
 name: Nathaniel Yoon
 created-on: 2022-02-27T18:05:37.379Z
 updated-on: 2022-02-27T18:05:37.385Z
