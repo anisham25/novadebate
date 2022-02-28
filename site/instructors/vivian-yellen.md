@@ -7,13 +7,15 @@ seo:
 picture:
   url: /static/images/img_0873.jpg
   alt: Coming Soon
-bio: Hi! Im Viv (she/her) and ill be one of the Co-Directors for NOVA 2022. I am
-  a rising Senior at Bronx Science in NYC and serve as one of my teams Captains
-  and Novice Directors. In debate, I have amassed a total of 5 bids including
-  golds at Durham, Glenbrooks and Harvard. Last year, I placed 10th at the
-  National Speech and Debate Tournament earning a Auto-Qualifcation to the TOC.
-  In my free time I love listening to music, watching TV and going on bike
+bio: "Hi! Im Viv (she/her) and ill be one of the Co-Directors for NOVA 2022. I
+  am a rising Senior at Bronx Science in NYC and serve as one of my teams
+  Captains and Novice Directors. In debate, I have amassed a total of 5 bids
+  including golds at Durham, Glenbrooks and Harvard. Last year, I placed 10th at
+  the National Speech and Debate Tournament earning a Auto-Qualifcation to the
+  TOC. In my free time I love listening to music, watching TV and going on bike
   rides. I cant wait to work with everyone!
+  \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\
+  \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
 general-staff: true
 general-staff-role: Co-Director
 name: Vivian Yellen
