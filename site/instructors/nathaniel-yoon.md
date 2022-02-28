@@ -7,7 +7,7 @@ seo:
 picture:
   alt: Nathaniel Yoon
   url: /static/images/nathnaielbio.jpeg
-bio: Hello, I'm Nathaniel (he/him) and I'll be the Adult Administrator for NOVA
+bio: Hello, I'm Nathaniel (he/him) and I'll be the adult supervisor for NOVA
   this year! I attend Johns Hopkins University where I'm the president of the
   debate team, and attended Oakton High School where I debated and served as the
   team's coach for three years. In college, I broke at Nationals, NAUDC, and
