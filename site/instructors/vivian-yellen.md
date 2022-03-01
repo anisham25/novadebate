@@ -12,8 +12,10 @@ bio: "Hi! Im Viv (she/her) and ill be one of the Co-Directors for NOVA 2022. I
   Captains and Novice Directors. In debate, I have amassed a total of 5 bids
   including golds at Durham, Glenbrooks and Harvard. Last year, I placed 10th at
   the National Speech and Debate Tournament earning a Auto-Qualifcation to the
-  TOC. In my free time I love listening to music, watching TV and going on bike
-  rides. I cant wait to work with everyone!
+  TOC. I love all styles of debate, in particular more traditional yet technical
+  rounds but I do have experience in theory and lay debate. In my free time I
+  love listening to music, watching TV and going on bike rides. I cant wait to
+  work with everyone!
   \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\
   \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
 general-staff: true
