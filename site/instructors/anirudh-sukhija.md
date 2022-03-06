@@ -9,8 +9,8 @@ picture:
   url: /static/images/img_4429-anirudh-sukhija.jpg
 bio: "Hey! I'm Ani (he/him) and I'm a rising senior at Durham Academy. I've been
   competing on the national and local PF circuit for the past three years, and
-  during that time I've been ranked as high as the second best PF team in the
-  nation. Over the past two years, I've been ranked as the top PF team in North
+  during that time I've been ranked as high as the best PF team in the nation.
+  Over the past two years, I've been ranked as the top PF team in North
   Carolina, qualifying to the gold TOC both years and earning 13 bids: seven
   gold and six silver. Notably, I've championed Isidore Newman, Duke, and the
   Strake Round Robin, while co-championing Sunvite and UK. I also finaled the
