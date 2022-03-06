@@ -22,6 +22,6 @@ bio: "Hey! I'm Ani (he/him) and I'm a rising senior at Durham Academy. I've been
   excited to work with y'all this summer!"
 name: Anirudh Sukhija
 created-on: 2022-02-27T16:36:23.998Z
-updated-on: 2022-02-27T16:36:24.004Z
+updated-on: 2022-03-06T18:15:29.261Z
 published-on: 2022-02-27T16:36:24.008Z
 ---
