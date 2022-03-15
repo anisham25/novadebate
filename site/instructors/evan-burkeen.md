@@ -1,23 +1,24 @@
 ---
 tags: instructors
-date: 2021-05-17T07:13:49.774Z
+date: 2022-02-27T18:09:31.576Z
 layout: single-instructors.html
 seo:
   twitter:card: summary
 picture:
   alt: Evan Burkeen
   url: /static/images/evanbio.png
-bio: Hey! I'm Evan, and I've debated for American Heritage for two years. I
-  compete in PF, reaching late outrounds at several tournaments including
-  Semifinaling the GMU Patriot Games and Quarterfinaling the Florida State
-  tournament. Outside of qualifying to both the TOC and to NSDA Nationals, I
-  frequently coach and practice with novices from many various schools, helping
-  organize pre-tournament prep. I also am very familiar with progressive
-  argumentation, helping many others learn these skills as well. Outside of
-  debate, I like to talk with friends and I enjoy watching anime. I'm ecstatic
-  to join NOVA this summer!
+bio: Hey! I’m Evan (he/him), and I’ll be one of the Co-Directors for NOVA 2022.
+  I am a rising Senior at American Heritage in Florida and serve as a Captain on
+  our Public Forum Team. In my career, I’ve qualified to FFL, NSDA, and TOC, and
+  reached deep outrounds at tournaments such as Yale, GMU, and Emory. I enjoy
+  all types of debate, ranging from lay to progressive. In my off time, I am a
+  PASSIONATE listener of music and I love debating (no surprise there) about
+  which artists are the best (Playboi Carti). This is my third year at NOVA, and
+  I’m excited to see y’all this summer!
+general-staff: true
+general-staff-role: Co-Director
 name: Evan Burkeen
-created-on: 2021-05-17T07:13:49.803Z
-updated-on: 2021-05-17T07:13:49.822Z
-published-on: 2021-05-17T07:13:49.834Z
+created-on: 2022-02-27T18:09:31.587Z
+updated-on: 2022-02-27T18:09:31.593Z
+published-on: 2022-02-27T18:09:31.600Z
 ---

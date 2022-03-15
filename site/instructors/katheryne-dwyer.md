@@ -1,23 +1,25 @@
 ---
 tags: instructors
-date: 2021-05-17T06:44:31.528Z
+date: 2022-02-27T16:33:58.023Z
 layout: single-instructors.html
 seo:
   twitter:card: summary
 picture:
-  alt: Katheryne Dwyer
-  url: /static/images/newkatherynepic.jpg
-bio: Hi!! I’m Katheryne and I debate for Walt Whitman in Bethesda, MD. I’m a
-  junior and have debated for two years on the national circuit. In that time,
-  I’ve earned 10 career bids including 8 gold bids and qualified to TOC twice.
-  My junior year I won Valley, finaled the Harvard RR, and quartered Harvard,
-  Stanford, and Blake. In terms of coaching, I worked at multiple camps last
-  year (including Nova!), worked with a bunch of mentorship programs, and
-  coached kids both inside and outside of the Whitman team. I love working with
-  younger debaters and helping people find their stride in debate, super excited
-  to help you do that this summer!
+  alt: Coming Soon
+  url: /static/images/c50afb0c-0517-42d0-ad74-9863c1b1a47d-katheryne-dwyer.jpeg
+bio: Hi! I’m Katheryne. I’m a graduating senior from Whitman High School in
+  Bethesda, MD. This will be my third year working at Nova, and I’m so excited
+  to get to meet all of you! I competed in national circuit PF for 3 years,
+  accumulating 13 career gold bids. Most notably, I twice won Valley Mid America
+  cup, finaled the Harvard RR (2021), semifinaled Blake (2022), the Harvard RR
+  (2022), and the Blake RR, quarterfinaled Harvard, Blake (2021), and Stanford.
+  I’ve also gotten many top 5 speaker awards, including top speaking the Harvard
+  RR, Lakeland, and Lexington, and getting other top 5 awards at Blake, the
+  Blake RR, Ivy Street RR, Bronx, and more. I’m comfortable with lots of
+  different types of arguments and am really looking forwards to work with all
+  of you.
 name: Katheryne Dwyer
-created-on: 2021-05-17T06:44:31.538Z
-updated-on: 2021-05-17T06:44:31.549Z
-published-on: 2021-05-17T06:44:31.557Z
+created-on: 2022-02-27T16:33:58.030Z
+updated-on: 2022-02-27T16:33:58.035Z
+published-on: 2022-02-27T16:33:58.041Z
 ---

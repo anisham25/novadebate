@@ -1,24 +1,26 @@
 ---
 tags: instructors
-date: 2021-05-17T06:37:28.689Z
+date: 2022-03-01T02:01:49.701Z
 layout: single-instructors.html
 seo:
   twitter:card: summary
 picture:
   alt: Sarang Arun
-  url: /static/images/newsarangpic.png
-bio: Hi! I'm Sarang, and I'm a junior debating for National Cathedral. I've
-  reached out-rounds at numerous tournaments, including Georgetown, Blake, Jack
-  Howe, and Durham. Additionally, I earned top speaker and semi-finaled the
-  Princeton Classic on top of championing The UK Season Opener this season,
-  acquiring two gold bids to the Tournament of Champions! I'm most comfortable
-  helping with casing, analytics, weighing, and overall back half strategies. I
-  have experience speaking both first and second, so I'd love to discuss
-  rebuttal strats as well as summary. Outside of debate, I love to hang with
-  friends & listen to cool music. I can't wait to work with y'all this summer at
-  Nova!
+  url: /static/images/image-2-28-22-at-8.58-pm-sarang-arun.jpg
+bio: Hey! I'm Sarang (he/him) and a rising freshman in college (TBD!). I've
+  competed for and served as the team captain of the National Cathedral School
+  (St. Albans) and Potomac Debate Academy. While debating on the national
+  circuit, I've reached semifinals at Princeton, quarterfinals at the Strake
+  Round Robin, championed the UK Season Opener, and received TOC bids at
+  tournaments such as Harvard and Cypress Bay. After working at NOVA last year,
+  I'm incredibly grateful to be teaching alongside talented staff and
+  instructing passionate students again this year! I have experience as both a
+  first and second speaker and would love to discuss back-half strategies and
+  how to perfect a summary speech. Outside of debate, you can find me listening
+  to Kanye, LDR, and Kendrick on Spotify or sending Emma my math homework to
+  check if it's accurate. Super excited to join NOVA again this summer.
 name: Sarang Arun
-created-on: 2021-05-17T06:37:28.714Z
-updated-on: 2021-05-17T06:37:28.723Z
-published-on: 2021-05-17T06:37:28.732Z
+created-on: 2022-03-01T02:01:49.709Z
+updated-on: 2022-03-01T02:01:49.715Z
+published-on: 2022-03-01T02:01:49.722Z
 ---

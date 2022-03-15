@@ -1,21 +1,22 @@
 ---
 tags: instructors
-date: 2021-05-17T06:56:31.430Z
+date: 2022-02-27T16:37:29.973Z
 layout: single-instructors.html
 seo:
   twitter:card: summary
 picture:
   alt: Irene Zhao
-  url: /static/images/irenebio.png
-bio: Hi!! I’m Irene (she/her) and I currently debate PF for Sidwell in
-  Washington, DC. This season, I reached elimination rounds at several national
-  circuit tournaments, semifinaling at Georgetown, quartering Pennsbury, and
-  octofinaling SCU and Jack Howe. Other than competing, I’ve worked with
-  debaters on my local circuit during the summer, and judged tournaments
-  throughout the year. Outside of debate, I love baking bread and listening to
-  Giveon. Looking forward to Nova!
+  url: /static/images/img_1931-irene-zhao.jpg
+bio: Hi! I’m Irene (she/her), a rising senior at Sidwell in DC. Over the past
+  two years, I qualified twice to the Tournament of Champions, octofinaling
+  Harvard and semifinaling Alta this season. I also compete on my local circuit,
+  where I qualified to Metrofinals. Outside of competing, I work on Beyond
+  Resolved's monthly Argument Breakdowns, and coached at Nova last summer. In my
+  spare time, I enjoy frolicking about with my dog Coco and listening to
+  mediocre indie rock bands. Nova is genuinely a blast, and I'm excited to
+  return!
 name: Irene Zhao
-created-on: 2021-05-17T06:56:31.439Z
-updated-on: 2021-05-17T06:56:31.447Z
-published-on: 2021-05-17T06:56:31.457Z
+created-on: 2022-02-27T16:37:29.982Z
+updated-on: 2022-02-27T16:37:29.989Z
+published-on: 2022-02-27T16:37:29.995Z
 ---

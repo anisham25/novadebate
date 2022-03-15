@@ -1,23 +1,23 @@
 ---
 tags: instructors
-date: 2021-05-17T07:19:25.410Z
+date: 2022-02-27T16:38:19.628Z
 layout: single-instructors.html
 seo:
   twitter:card: summary
 picture:
   alt: Emma Bennett
-  url: /static/images/emmabio.jpg
-bio: Hi! I’m Emma (she/her) and I’m a rising junior at National Cathedral School
-  in DC and will serve as the captain of NCS debate next year. I’ve done PF
-  since middle school and started debating on the national circuit as a
-  freshman, recently semi-finaling at Princeton and reaching outrounds at
-  several tournaments like Blake, Jack Howe, and Nova Titan. With my experience
-  as both a first and second speaker, I’d be happy to talk about collapse
-  strategies, analytics, researching/casing, etc. Outside of debate, you can
-  find me baking, running outside, occasionally binging Netflix, or vibing to
-  music. So excited to work with y’all at NOVA!
+  url: /static/images/biopicture-emma-bennett.jpg
+bio: Hi! I'm Emma (she/her) and a rising senior and debate captain at National
+  Cathedral School (NCS) in DC. While debating on the national circuit for the
+  last few years, notably I've reached semifinals at Princeton, quarterfinals at
+  the Strake Round Robin, and also received TOC bids at tournaments such as
+  Harvard and Cypress Bay. From volunteering at my local urban debate league to
+  teaching here at NOVA last year, I love coaching and especially talking about
+  fun rebuttal strategies/responses. Outside of debate you can find me on
+  Spotify listening to Lana Del Rey or Mitski or going on long runs outside.
+  Really excited to join NOVA this summer!
 name: Emma Bennett
-created-on: 2021-05-17T07:19:25.420Z
-updated-on: 2021-05-17T07:19:25.432Z
-published-on: 2021-05-17T07:19:25.440Z
+created-on: 2022-02-27T16:38:19.637Z
+updated-on: 2022-02-27T16:38:19.644Z
+published-on: 2022-02-27T16:38:19.650Z
 ---
