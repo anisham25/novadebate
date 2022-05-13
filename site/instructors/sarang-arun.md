@@ -7,7 +7,7 @@ seo:
 picture:
   alt: Sarang Arun
   url: /static/images/image-2-28-22-at-8.58-pm-sarang-arun.jpg
-bio: Hey! I'm Sarang (he/him) and a rising freshman in college (TBD!). I've
+bio: Hey! I'm Sarang (he/him) and a rising freshman in college (Emory!). I've
   competed for and served as the team captain of the National Cathedral School
   (St. Albans) and Potomac Debate Academy. While debating on the national
   circuit, I've reached semifinals at Princeton, quarterfinals at the Strake
