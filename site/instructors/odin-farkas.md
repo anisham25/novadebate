@@ -5,7 +5,7 @@ layout: single-instructors.html
 seo:
   twitter:card: summary
 picture:
-  url: /static/images/img_8369.jpg
+  url: /static/images/odin1.png
   alt: Odin Farkas
 bio: Odin is attending Stanford University. As a debater for American Heritage
   School in South Florida, he qualified to the Gold Tournament of Champions
