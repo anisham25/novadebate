@@ -5,7 +5,7 @@ layout: single-instructors.html
 seo:
   twitter:card: summary
 picture:
-  url: /static/images/img_0873.jpg
+  url: /static/images/img_3248.jpg
   alt: Coming Soon
 bio: "Hi! Im Viv (she/her) and ill be one of the Co-Directors for NOVA 2022. I
   am a rising Senior at Bronx Science in NYC and serve as one of my teams
