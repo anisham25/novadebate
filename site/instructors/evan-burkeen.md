@@ -6,7 +6,7 @@ seo:
   twitter:card: summary
 picture:
   alt: Evan Burkeen
-  url: /static/images/evanbio.png
+  url: /static/images/portrait.png
 bio: Hey! I’m Evan (he/him), and I’ll be one of the Co-Directors for NOVA 2022.
   I am a rising Senior at American Heritage in Florida and serve as a Captain on
   our Public Forum Team. In my career, I’ve qualified to FFL, NSDA, and TOC, and
