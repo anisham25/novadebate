@@ -17,6 +17,8 @@ bio: Sienna is a rising junior at Flintridge Preparatory School in La Cañada,
   and UK. She's been a captain of her schools 80-person speech and debate team
   since freshman year and has lots of experience in teaching public forum. She
   can't wait for this summer!
+general-staff: true
+general-staff-role: Co-Director
 name: Sienna Vaughn
 created-on: 2022-03-18T01:36:24.767Z
 updated-on: 2022-03-18T01:36:24.780Z
