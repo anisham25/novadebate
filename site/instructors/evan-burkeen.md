@@ -16,7 +16,7 @@ bio: Hey! I’m Evan (he/him), and I’ll be one of the Co-Directors for NOVA 20
   which artists are the best (Playboi Carti). This is my third year at NOVA, and
   I’m excited to see y’all this summer!
 general-staff: true
-general-staff-role: Co-Director
+general-staff-role: Administrator
 name: Evan Burkeen
 created-on: 2022-02-27T18:09:31.587Z
 updated-on: 2022-02-27T18:09:31.593Z
