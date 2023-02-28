@@ -20,7 +20,7 @@ bio: "Hi! Im Viv (she/her) and ill be one of the Co-Directors for NOVA 2022. I
   \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\
   \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
 general-staff: true
-general-staff-role: Co-Director
+general-staff-role: Administrator
 name: Vivian Yellen
 created-on: 2022-02-27T16:22:19.326Z
 updated-on: 2022-02-27T16:22:19.333Z
