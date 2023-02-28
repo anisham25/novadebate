@@ -7,18 +7,15 @@ seo:
 picture:
   url: /static/images/img_3248.jpg
   alt: Coming Soon
-bio: "Hi! Im Viv (she/her) and ill be one of the Co-Directors for NOVA 2022. I
-  am a rising Senior at Bronx Science in NYC and serve as one of my teams
-  Captains and Novice Directors. In debate, I have amassed a total of 5 bids
-  including golds at Durham, Glenbrooks and Harvard. Last year, I placed 10th at
-  the National Speech and Debate Tournament earning a Auto-Qualifcation to the
-  TOC. Most recently, I got to Octo-Finals at the 2022 Gold TOC, earning an
-  Auto-Qual for next year. I love all styles of debate, in particular
-  traditional yet technical rounds; but I do have experience in theory and lay
-  debate. In my free time I love listening to music, watching TV and going on
-  bike rides. I cant wait to work with everyone!
-  \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\
-  \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+bio: "Hi! Im Viv (she/her) and I co directed NOVA in 2022 and will be overseeing
+  camp this year. I debated myself for four years at The Bronx High School of
+  Science in New York City. As a competitor, I placed 10th at Nationals in 2021,
+  and reached octofinals at both the 2022 Grand Nationals and the 2022  Gold
+  TOC, receiving three separate TOC auto-qualifications. In addition, I have
+  received gold bids at tournaments such as Glenbrooks, Harvard, and Durham. I
+  love to come up with creative case strategies, and help students with
+  developing skills in weighing and round vision. I also have experience in
+  theory and other more progressive forms of argumentation. "
 general-staff: true
 general-staff-role: Administrator
 name: Vivian Yellen
