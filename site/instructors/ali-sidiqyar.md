@@ -5,7 +5,7 @@ layout: single-instructors.html
 seo:
   twitter:card: summary
 picture:
-  url: /static/images/img_2728_-_ali_s.jpg
+  url: /static/images/img_2728-ali-s.jpeg
   alt: Ali Sidiqyar
 bio: Ali is a rising senior at Brentwood High School near Nashville, Tennessee.
   He's competed in varsity public forum for two years on the national circuit
