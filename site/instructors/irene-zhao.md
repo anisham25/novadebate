@@ -6,7 +6,7 @@ seo:
   twitter:card: summary
 picture:
   alt: Irene Zhao
-  url: /static/images/irenebio.png
+  url: /static/images/img_3713-irene-zhao.jpg
 bio: Irene Zhao debated for four years at Sidwell Friends School in Washington
   D.C. Across her career, she amassed 7 career bids and cleared at both the TOC
   and NCFLs, most notably championing Georgetown her senior year. Aside from
