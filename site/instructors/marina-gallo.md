@@ -6,7 +6,7 @@ seo:
   twitter:card: summary
 picture:
   alt: Marina Gallo
-  url: /static/images/5b71a918-7075-4b6e-9815-f3a13dc2c640-marina-gallo.jpeg
+  url: /static/images/img_0729-marina-gallo.jpeg
 bio: Hey! I'm Marina (she/her). I'm a rising senior & I've debated for three
   years at Bronx Science. I've earned two bids and championed Durham this year,
   and states my freshman year. I find all types of debate interesting, but I
