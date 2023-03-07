@@ -6,7 +6,7 @@ seo:
   twitter:card: summary
 picture:
   alt: Benjamin Yoo
-  url: /static/images/img_5476_-_benjamin_yoo.jpg
+  url: /static/images/img_5476-benjamin-yoo.jpeg
 bio: "Hi! I'm Benjamin, and I did one year of MSPDP before starting public forum
   debate in freshman year. This is my first year as a counselor, although I've
   helped many novice debaters with prep and scrimmage rounds before. Some fun
