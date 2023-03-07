@@ -5,7 +5,7 @@ layout: single-instructors.html
 seo:
   twitter:card: summary
 picture:
-  url: /static/images/fe066a97-4bbe-4abd-a041-51f3e85ec2d0.jpeg
+  url: /static/images/img_2249.jpg
   alt: Grace Liu
 bio: Grace is a rising senior at Thomas Jefferson High School for Science and
   Technology in Virginia. She has been debating for three years, during which
