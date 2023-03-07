@@ -6,7 +6,7 @@ seo:
   twitter:card: summary
 picture:
   alt: Dasha Smirnova
-  url: /static/images/pic-dasha-smirnova.jpg
+  url: /static/images/img_5964-dasha-smirnova.jpg
 bio: Hi y'all! My name is Dasha and I'm a rising senior at Bronx Science in New
   York City. I've been debating for five years and I'm currently the novice
   director of PF at Bronx Science. I've reached outrounds at Yale, UK Season
