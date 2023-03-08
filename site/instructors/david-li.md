@@ -1,22 +1,26 @@
 ---
 tags: instructors
-date: 2022-03-01T13:27:49.948Z
+date: 2023-03-07T02:09:17.570Z
 layout: single-instructors.html
 seo:
   twitter:card: summary
 picture:
-  alt: David Li
   url: /static/images/nova_bio_picture-david-li.jpg
-bio: Hi! I'm David (he/him) and I am a rising junior at TJHSST. This is my 3rd
-  year on the local and national circuit, and have amassed 3 bids at Princeton,
-  Sunvite, and UNLV this year. I enjoy mentoring and working with other debaters
-  at my school, especially when it comes to case writing and other fun strategic
-  drills. When it comes to debate styles and preference, I enjoy flow and lay
-  debating along with progressive  argumentation. In my free time, I enjoy
-  playing chess, listening to music, and petting my dog. I learned a lot
-  attending NOVA last year and can't wait to being teaching this summer!
+  alt: David Li
+bio: David is a rising senior at Thomas Jefferson High School in Alexandria,
+  Virginia, and he has debated for the past 3 years. This year, he accrued 5
+  bids, ranked as high as 7th in the nation, and reached outrounds at Bronx, UK
+  Season Opener, Yale, UPenn, and Princeton. David and his partner also
+  previously qualified to TOC and NCFL, and placed top 30 at NSDA Nationals. As
+  the teaching coordinator for TJ Public forum and a returning NOVA instructor,
+  he had a blast mentoring debaters of all divisions, whether it was helping
+  write cases or practicing drills. In his free time, David enjoys going on
+  walks with his Shih-Tzu Cow, listening to music, and playing chess. He is
+  ecstatic to direct at NOVA Debate this year!
+general-staff: true
+general-staff-role: Co-Director
 name: David Li
-created-on: 2022-03-01T13:27:49.962Z
-updated-on: 2022-03-01T13:27:49.973Z
-published-on: 2022-03-01T13:27:49.983Z
+created-on: 2023-03-07T02:09:17.579Z
+updated-on: 2023-03-07T02:09:17.584Z
+published-on: 2023-03-07T02:09:17.590Z
 ---

@@ -6,15 +6,15 @@ seo:
   twitter:card: summary
 picture:
   alt: Irene Zhao
-  url: /static/images/img_1931-irene-zhao.jpg
-bio: Hi! I’m Irene (she/her), a rising senior at Sidwell in DC. Over the past
-  two years, I qualified twice to the Tournament of Champions, octofinaling
-  Harvard and semifinaling Alta this season. I also compete on my local circuit,
-  where I qualified to Metrofinals. Outside of competing, I work on Beyond
-  Resolved's monthly Argument Breakdowns, and coached at Nova last summer. In my
-  spare time, I enjoy frolicking about with my dog Coco and listening to
-  mediocre indie rock bands. Nova is genuinely a blast, and I'm excited to
-  return!
+  url: /static/images/img_3713-irene-zhao.jpg
+bio: Irene Zhao debated for four years at Sidwell Friends School in Washington
+  D.C. Across her career, she amassed 7 career bids and cleared at both the TOC
+  and NCFLs, most notably championing Georgetown her senior year. Aside from
+  competing, she has worked closely with novices at her school as a captain and
+  written monthly argument breakdowns through Beyond Resolved. Aside from
+  debate, Irene enjoys sampling different flavors of Goldfish (pumpkin spice
+  Goldfish!) and listening to Maggie Rogers. Irene has taught at NOVA for the
+  past two years, and is excited to return!
 name: Irene Zhao
 created-on: 2022-02-27T16:37:29.982Z
 updated-on: 2022-02-27T16:37:29.989Z
