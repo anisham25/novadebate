@@ -6,7 +6,7 @@ seo:
   twitter:card: summary
 picture:
   alt: Alina Chen
-  url: /static/images/img_3231_crop-alina-chen.jpg
+  url: /static/images/cropped-nova-pfp-alina-chen.jpg
 bio: Alina is a rising senior at Thomas Jefferson High School for Science and
   Technology in Virginia. She has been debating for three years, during which
   she has been ranked as high as 17th in the nation, earned 3 bids and reached
