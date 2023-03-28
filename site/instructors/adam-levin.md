@@ -6,7 +6,7 @@ seo:
   twitter:card: summary
 picture:
   alt: Adam Levin
-  url: /static/images/nova-picture-2-adam-levin.png
+  url: /static/images/adam_nova_pfp.png
 bio: Hi! I’m Adam (he/him) and I’m a rising senior at Cary Academy in North
   Carolina. I’ve debated in Public Forum for three years and in my two years on
   the national circuit I’ve accrued 5 bids, qualified to TOC, NCFLs, and NSDAs.
