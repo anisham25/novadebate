@@ -6,7 +6,7 @@ seo:
   twitter:card: summary
 picture:
   alt: Michaela Frey
-  url: /static/images/img_7318-michaela-frey.jpg
+  url: /static/images/michaela_updated_nova.png
 bio: Hi, I'm Michaela Frey (she/her) and I'm a rising sophomore at Langley High
   School. I did MSPDP at Longfellow MS and currently do public forum. I work
   with novices at my school and compete on the local Virginia circuit as well as
