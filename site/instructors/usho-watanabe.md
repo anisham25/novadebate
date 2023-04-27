@@ -6,7 +6,7 @@ seo:
   twitter:card: summary
 picture:
   alt: Usho Watanabe
-  url: /static/images/5bdf36d2-bb3a-478d-8da6-cafe1bb014c1-usho-watanabe.jpeg
+  url: /static/images/usho_updated_nova.png
 bio: "I'm Usho! I've been debating at Taipei American for 3 years, with
   experience in PF and WSDC. As a rising junior, I've qualified to TOC and
   Nationals both years, with 5 bids and consistent breaks across the board,
