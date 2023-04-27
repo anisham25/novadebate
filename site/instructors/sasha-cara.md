@@ -5,7 +5,7 @@ layout: single-instructors.html
 seo:
   twitter:card: summary
 picture:
-  url: /static/images/sasha-nova-bio-a-s.jpg
+  url: /static/images/sasha_updated_nova.png
   alt: Sasha Cara
 bio: Hi! My name is Sasha. I am a rising senior at Princeton High School and
   have been debating for three years. This year, I have accumulated 2 gold and 2
