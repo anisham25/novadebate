@@ -6,7 +6,7 @@ seo:
   twitter:card: summary
 picture:
   alt: Arnav Mahendra
-  url: /static/images/img_6637-arnav-mahendra.jpg
+  url: /static/images/arnav_updated_nova.png
 bio: "Arnav Mahendra is a rising junior at Mira Loma High School in Sacramento,
   California. In his two years of debate, he has amassed three bids to the ToC,
   qualified for states and NSDA Nationals, and broken to elims at many natcirc
