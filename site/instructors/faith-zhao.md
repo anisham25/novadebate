@@ -6,7 +6,7 @@ seo:
   twitter:card: summary
 picture:
   alt: Faith Zhao
-  url: /static/images/img_9339-faith-zaho.jpg
+  url: /static/images/faith_updated_nova.png
 bio: Hi guys! My name is Faith (she/her) and I'm a rising junior at Dulaney High
   School in Baltimore Maryland. This will be my third year of debating in a
   public forum. During this time, my partner and I have qualified for TOC, NSDA
