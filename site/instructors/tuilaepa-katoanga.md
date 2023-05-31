@@ -15,7 +15,7 @@ bio: Hello! My name is Tuilaepa Katoanga (he/him) and I am a rising senior at
   specialize in traditional debate, focusing on how to create a compelling
   narrative by condensing the round, but I also have experience with technical
   debate as well. When I'm not debating, I love listening to Taylor Swift,
-  watching TV, and writing. As a NOVA alum, I'm super excited to return an
+  watching TV, and writing. As a NOVA alum, I'm super excited to return as an
   instructor this year!
 name: Tuilaepa Katoanga
 created-on: 2023-05-31T13:45:50.268Z
