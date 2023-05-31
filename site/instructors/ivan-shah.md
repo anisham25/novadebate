@@ -6,7 +6,7 @@ seo:
   twitter:card: summary
 picture:
   alt: Ivan Shah
-  url: /static/images/img_5724-ivan-shah.jpg
+  url: /static/images/ivan_shah_nova_cropped.png
 bio: Ivan (he/him) is a rising senior at DVHS in California, Bay Area. He has
   been competing in Speech and Debate for four years and currently holds the
   position of Vice President in his school's 200-student debate team. As a
