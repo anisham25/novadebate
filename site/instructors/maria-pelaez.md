@@ -6,7 +6,7 @@ seo:
   twitter:card: summary
 picture:
   alt: Maria Pelaez
-  url: /static/images/download-1-mari-peláez.jpeg
+  url: /static/images/fotor_2023-5-31_15_10_55.jpg
 bio: Hi! I’m Maria (she/her) and I go to BASIS Shavano in San Antonio, Texas,
   where I am a rising Junior. I started debate in 8th grade, and started
   competing heavily my freshman year. I was vice president of my debate team my
