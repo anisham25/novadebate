@@ -6,7 +6,7 @@ seo:
   twitter:card: summary
 picture:
   alt: Aaron Tian
-  url: /static/images/dbating2-aaron.png
+  url: /static/images/aaron_tian_nova_cropped.png
 bio: "Hi! I'm Aaron and I'm a rising sophomore at Thomas Wootton High School in
   Maryland. I'm a captain of my school's debate team and have been debating for
   around 4 years on the national and local circuits. I've been ranked as high as
