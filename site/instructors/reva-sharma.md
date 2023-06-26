@@ -6,7 +6,7 @@ seo:
   twitter:card: summary
 picture:
   alt: Reva Sharma
-  url: /static/images/screen-shot-2023-06-24-at-11.13.01-pm-reva-sharma.png
+  url: /static/images/screen-shot-2023-06-24-at-11.13.01-pm-reva-sharma-fotor-2023062614252.png
 bio: Hi! My name is Reva Sharma and I'm a rising senior at Mira Loma High
   School. I'm the President of my school's speech and debate club, and I've been
   doing public forum for around 3 years. This year I qualified to NCFL
