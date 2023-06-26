@@ -6,7 +6,7 @@ seo:
   twitter:card: summary
 picture:
   alt: Jae Kim
-  url: /static/images/bio-pic-jae-kim.jpg
+  url: /static/images/jae_kim_instructor_cropped.jpg
 bio: What's up! I'm Jae (he/him) and I'm a rising college freshman and debated
   for three years at Torrey Pines High School where I served as Vice President
   of Speech and Debate as well as being a PF captain. I qualled to NDCA and TOC
