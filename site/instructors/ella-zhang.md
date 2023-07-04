@@ -6,7 +6,7 @@ seo:
   twitter:card: summary
 picture:
   alt: Ella Zhang
-  url: /static/images/pic-ella-zhang.jpg
+  url: /static/images/pic-ella-zhang-fotor-20230704171934.png
 bio: Hey!! I'm Ella and I'm a rising senior at Cary Academy where I have been
   debating for three years and will be team captain next year. This year, I've
   been ranked as high as 3rd in the nation, earned 4 bids, and qualified to both
