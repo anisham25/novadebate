@@ -6,7 +6,7 @@ seo:
   twitter:card: summary
 picture:
   alt: Aayush Kumar
-  url: /static/images/aayush_kumar.png
+  url: /static/images/aayush_kumar-fotor-2023071613353.png
 bio: Hey, I’m Aayush! I’ve been PF debating since around 7th grade and got a few
   bids and stuff. My partner and I were ranked top 15, went to Gold TOC, and
   qualified for nationals this past season. As a rising senior at Ravenwood High
