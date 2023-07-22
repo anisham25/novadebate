@@ -6,7 +6,7 @@ seo:
   twitter:card: summary
 picture:
   alt: "Tiffany Bian "
-  url: /static/images/img-7595-tiffany-bian.jpg
+  url: /static/images/tiffany_nova.jpg
 bio: Hi, I'm Tiffany! I'm a rising senior at Dulles High School where I was the
   pf captain there my junior year, which has provided me plenty of experience
   mentoring both novice and varsity teams. Throughout my career, I've qualified
