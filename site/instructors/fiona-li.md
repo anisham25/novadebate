@@ -6,7 +6,7 @@ seo:
   twitter:card: summary
 picture:
   alt: Fiona Li
-  url: /static/images/37f06901-96a9-4532-8a8c-ce1f07558877-fiona-li-fotor-20230716133743.png
+  url: /static/images/fiona_nova.jpg
 bio: Hey I’m Fiona (she/they), and I’m a rising senior. I debated for three
   years at the Overlake school in Washington, winning my district tournament,
   qualifying to nationals and becoming the first to team to fully qualify for
