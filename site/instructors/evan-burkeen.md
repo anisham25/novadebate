@@ -15,7 +15,7 @@ bio: Hey! I’m Evan (he/him), and I was one of the Co-Directors for NOVA 2022,
   Emory. I enjoy all types of debate, ranging from lay to progressive. This is
   my fourth year at NOVA, and I’m excited to see y’all this summer!
 general-staff: true
-general-staff-role: Administrator
+general-staff-role: Executive Director
 name: Evan Burkeen
 created-on: 2022-02-27T18:09:31.587Z
 updated-on: 2022-02-27T18:09:31.593Z
