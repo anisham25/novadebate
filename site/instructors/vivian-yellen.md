@@ -17,7 +17,7 @@ bio: "Hi! Im Viv (she/her) and I co directed NOVA in 2022 and will be overseeing
   developing skills in weighing and round vision. I also have experience in
   theory and other more progressive forms of argumentation. "
 general-staff: true
-general-staff-role: Administrator
+general-staff-role: Executive Director
 name: Vivian Yellen
 created-on: 2022-02-27T16:22:19.326Z
 updated-on: 2022-02-27T16:22:19.333Z
